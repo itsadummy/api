@@ -47,7 +47,7 @@
     "id": 5,
       "temperature": "22",
       "humidity": "78",
-      "potentio": "33"
+      "potentio": "33",
       "object": {
         "createdAt": "2015-02-17T19:27:08+00:00",
         "timestamp": "1424201228",
