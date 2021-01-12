@@ -4,10 +4,11 @@
       "id": 1,
       "temperature": "28",
       "humidity": "60",
+      "potentio: "45"
     },
     "object": {
       "createdAt": "2015-01-18T10:26:05+00:00",
-      "timestamp": "1421576765"
+      "timestamp": "1421576765",
       "year": "2015"
     }
   },
@@ -16,10 +17,11 @@
       "id": 2,
       "temperature": "26",
       "humidity": "65",
+      "potentio: "25"
     },
     "object": {
       "createdAt": "2015-01-24T02:32:14+00:00",
-      "timestamp": "1422066734"
+      "timestamp": "1422066734",
       "year": "2015"
     }
   },
@@ -28,10 +30,11 @@
       "id": 3,
       "temperature": "20",
       "humidity": "55",
+      "potentio: "89"
     },
     "object": {
       "createdAt": "2015-01-31T16:46:02+00:00",
-      "timestamp": "1422722762"
+      "timestamp": "1422722762",
       "year": "2015"
     }
   },
@@ -40,10 +43,11 @@
       "id": 4,
       "temperature": "32",
       "humidity": "85",
+      "potentio: "55"
     },
     "object": {
       "createdAt": "2015-02-07T05:32:16+00:00",
-      "timestamp": "1423287136"
+      "timestamp": "1423287136",
       "year": "2015"
     }
   },
@@ -52,10 +56,11 @@
       "id": 5,
       "temperature": "22",
       "humidity": "78",
+      "potentio: "33"
     },
     "object": {
       "createdAt": "2015-02-17T19:27:08+00:00",
-      "timestamp": "1424201228"
+      "timestamp": "1424201228",
       "year": "2015"
     }
   }
